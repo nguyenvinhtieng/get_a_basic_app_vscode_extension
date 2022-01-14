@@ -9,7 +9,7 @@
   "publisher": "NguyenVinhTieng",
   "repository": {
 		"type": "git",
-		"url": "https://github.com/vinhtieng/vinhtieng_snippet.git"
+		"url": "https://github.com/vinhtieng/get_a_basic_app_vscode_extension.git"
 	},
 	"icon": "logo.png",
   "categories": [
